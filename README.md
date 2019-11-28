@@ -1,7 +1,7 @@
 # Summergeeks
 
 The software project is created With the help Html Css and PHP.
-For mailing services it uses SMTP Server and for messeging it uses Textlocal.
+For mailing services it uses SMTP Server and for messaging it uses Textlocal.
 TextLocal is a paid service so Only 10 message can be sent with the TextLocal API between 9AM-9PM as regulation set by TextLocal.
 
 ## Image preview
