@@ -1,7 +1,7 @@
 <?php
-	// Authorisation details.
-	$username = "rajdeep2898@gmail.com";
-	$hash = "69436f1b20b19201e88c4826016433f2b2cf654728a4e17fa1fb6cd2b394ff4c";
+// Authorisation details.
+$username = "rajdeep@indusnet.co.in";
+$hash = "a05998853cc46ea7f1d1e22cdd10b9618dac3e7da655a06306a55262acccb22f";
 
 	// Config variables. Consult http://api.textlocal.in/docs for more info.
     $test = "0";
@@ -34,4 +34,3 @@ $message .= "3) Address:-" . $address1 . "\n";
     echo "<pre>";
     print_r($result);
     echo "hi";
-    ?>

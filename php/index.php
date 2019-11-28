@@ -55,7 +55,7 @@ if (isset($_POST['Submit1'])) {
             VALUES('$name1','$mail1', '$ph_number1','$address1','$date')";
         $query_sql_insert = mysqli_query($con, $sql_insert) or die("<b>Error:</b> Problem on data Insertion<br/>" . mysqli_error($con));
 
-        header("Location: checkout_page.php");
+        // header("Location: checkout_page.php");
     }
 }
 if (isset($_POST['Submit2'])) {
