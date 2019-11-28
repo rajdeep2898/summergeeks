@@ -6,11 +6,11 @@ TextLocal is a paid service so Only 10 message can be sent with the TextLocal AP
 
 ## Image preview
 
-![Host Mail](https://github.com/rajdeep2898/summergeeks/blob/master/img/Host%20mail.jpeg=100x50)
+![Host Mail](https://github.com/rajdeep2898/summergeeks/blob/master/img/Host%20mail.jpeg =100x50)
 Host Mail
-![Visitor Mail](https://github.com/rajdeep2898/summergeeks/blob/master/img/visitor%20mail.jpeg=100x50)
+![Visitor Mail](https://github.com/rajdeep2898/summergeeks/blob/master/img/visitor%20mail.jpeg =100x50)
 Visitor Mail
-![Host SMS](https://github.com/rajdeep2898/summergeeks/blob/master/img/Host%20sms.jpeg=100x50)
+![Host SMS](https://github.com/rajdeep2898/summergeeks/blob/master/img/Host%20sms.jpeg =100x50)
 Host SMS
 
 ## Instructioons
