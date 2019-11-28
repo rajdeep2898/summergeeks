@@ -20,6 +20,6 @@ Visitor Mail
 <img src="https://github.com/rajdeep2898/summergeeks/blob/master/img/Host%20sms.jpeg" width="300" height="600">
 Host SMS
 
-## Instructioons
+## Instructions
 
-You have to set the connection for the Wamp server in the file set_connection.php in the php folder.
+You have to set the connection for the Wamp server in the file **set_connection.php** in the php folder.
