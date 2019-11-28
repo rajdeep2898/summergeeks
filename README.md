@@ -9,10 +9,8 @@ TextLocal is a paid service so Only 10 message can be sent with the TextLocal AP
 <img src="https://github.com/rajdeep2898/summergeeks/blob/master/img/Host%20mail.jpeg" width="200" height="400">
 Host Mail
 <img src="https://github.com/rajdeep2898/summergeeks/blob/master/img/visitor%20mail.jpeg" width="200" height="400">
-
 Visitor Mail
 <img src="https://github.com/rajdeep2898/summergeeks/blob/master/img/Host%20sms.jpeg" width="200" height="400">
-
 Host SMS
 
 ## Instructioons
